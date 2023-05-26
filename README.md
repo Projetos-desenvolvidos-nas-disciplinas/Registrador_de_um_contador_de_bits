@@ -1,0 +1,1 @@
+# Registrador_de_um_contador_de_bits
